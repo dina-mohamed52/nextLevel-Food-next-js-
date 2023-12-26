@@ -23,4 +23,4 @@ Welcome to the Food Next.js App! This application is built using Next.js and inc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/food-nextjs-app.git
+   git clone https://github.com/dina-mohamed52/nextLevel-Food-next-js-
