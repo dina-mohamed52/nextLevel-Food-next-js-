@@ -57,7 +57,7 @@ function SharePage ()
                 id="email"
                 name="email"
                 className="w-full mb-4 border-2 bg-gray-800 border-orange-500 p-3 rounded-md focus:outline-none focus:border-orange-500"
-                required
+                // required
               />
             </div>
           </div>

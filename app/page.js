@@ -47,7 +47,7 @@ export default function Home ()
             <h2 className="text-3xl font-bold mb-2">How it works</h2>
             <p className="text-lg w-[35rem] content-center my-8 ml-[23rem] ">
               NextLevel Food is a platform for foodies to share their favorite
-              recipes with the world. It's a place to discover new dishes, and
+              recipes with the world. It is a place to discover new dishes, and
               to connect with other food lovers.
             </p>
           </div>
@@ -63,7 +63,7 @@ export default function Home ()
           <h2 className="text-3xl font-bold mb-4">Why NextLevel Food?</h2>
           <p className="text-lg  w-[35rem] content-center my-8 ml-[23rem]">
             NextLevel Food is a platform for foodies to share their favorite
-            recipes with the world. It's a place to discover new dishes, and to
+            recipes with the world. It is a place to discover new dishes, and to
             connect with other food lovers.
           </p>
           <p className="text-lg  w-[35rem] content-center my-8 ml-[23rem]">

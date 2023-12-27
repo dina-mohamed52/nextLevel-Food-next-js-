@@ -1,4 +1,6 @@
-import MealsItem from "./MealsItem";
+// import MealsItem from "./MealsItem";
+
+import MealsItem from "./mealsItem";
 
 function Meals({ meals }) {
   return (
